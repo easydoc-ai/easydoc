@@ -26,7 +26,7 @@ The maximum file size supported for each individual file is **100 MB**. Please e
   - **api-key**: The API key for authenticating your request. Include this in the request header.
   - **File**: The file you wish to upload for parsing. It should be included in the request body when sending a POST request to `api/v1/parse`.
 - **Optional Parameters**:
-  refer to the [API Reference for Input Parameters](https://platform.easydoc.sh/api-reference/input-parameters).
+  refer to the [API Reference for Input Parameters](/docs/api-reference/parse.md).
 
 ---
 

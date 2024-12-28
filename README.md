@@ -1,74 +1,119 @@
 ![cover-v5-optimized](/assets/readme_cover.png)
 
 <p align="center">
-  📌 <a href="http://47.251.124.22:8081/use-cases">Introducing Easydoc Workflow File Upload: Recreate Google NotebookLM Podcast</a>
+  📌 <a href="https://easydoc.sh/">Introducing Easydoc Api: Powerful Multimodal Document Processing API</a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://platform.easydoc-ai.sh">Easydoc Platform</a> 
+  <!-- ·
+   <a href="https://easydoc-ai.sh">Documentation</a> -->
 </p>
 
 <p align="center">
-  <a href="https://platform.easydoc-ai.sh">Easydoc Platform</a> ·
-  <a href="https://easydoc-ai.sh">Documentation</a>
-</p>
-
-<p align="center">
-    <a href="https://easydoc-ai" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Product-F04438"></a>
-    <a href="https://easydoc-ai/pricing" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/free-pricing?logo=free&color=%20%23155EEF&label=pricing&labelColor=%20%23528bff"></a>
-    <a href="https://discord.gg/FngNHpbcY7" target="_blank">
-        <img src="https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
+    <a href="https://easydoc.sh" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/product-F04438"></a>
+    <a href="https://easydoc.sh/pricing" target="_blank">
+        <img alt="Static Badge" src="
+        https://img.shields.io/badge/pricing-%20%23155EEF
+        "></a>
+    <a href="https://discord.gg/kMgjbHxm" target="_blank">
+        <img src="https://img.shields.io/discord/1319201673201324032?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
             alt="chat on Discord"></a>
     <a href="https://reddit.com/r/Easydocai" target="_blank">  
         <img src="https://img.shields.io/reddit/subreddit-subscribers/Easydocai?style=plastic&logo=reddit&label=r%2FEasydocai&labelColor=white"
             alt="join Reddit"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=Easydoc_ai" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/Easydoc_ai?logo=X&color=%20%23f5f5f5"
+    <a href="https://twitter.com/intent/follow?screen_name=EasyDoc_AI" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/EasyDoc_AI?logo=X&color=%20%23f5f5f5"
             alt="follow on X(Twitter)"></a>
-    <a href="https://hub.docker.com/u/langgenius" target="_blank">
-        <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/langgenius/Easydoc-web?labelColor=%20%23FDB062&color=%20%23f79009"></a>
-    <a href="https://github.com/langgenius/Easydoc/graphs/commit-activity" target="_blank">
-        <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/langgenius/Easydoc?labelColor=%20%2332b583&color=%20%2312b76a"></a>
-    <a href="https://github.com/langgenius/Easydoc/" target="_blank">
-        <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Alanggenius%2FEasydoc%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98"></a>
-    <a href="https://github.com/langgenius/Easydoc/discussions/" target="_blank">
-        <img alt="Discussion posts" src="https://img.shields.io/github/discussions/langgenius/Easydoc?labelColor=%20%239b8afb&color=%20%237a5af8"></a>
+    <a href="https://github.com/easydoc-ai/easydoc" target="_blank">
+        <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Aeasydoc-ai%2Feasydoc%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98"></a>
+    <a href="https://github.com/easydoc-ai/easydoc/discussions/" target="_blank">
+        <img alt="Discussion posts" src="https://img.shields.io/github/discussions/easydoc-ai/easydoc?labelColor=%20%239b8afb&color=%20%237a5af8"></a>
 </p>
 
 <p align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
   <a href="./README_CN.md"><img alt="简体中文版自述文件" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
-  <a href="./README_JA.md"><img alt="日本語のREADME" src="https://img.shields.io/badge/日本語-d9d9d9"></a>
-  <a href="./README_ES.md"><img alt="README en Español" src="https://img.shields.io/badge/Español-d9d9d9"></a>
-  <a href="./README_FR.md"><img alt="README en Français" src="https://img.shields.io/badge/Français-d9d9d9"></a>
-  <a href="./README_KL.md"><img alt="README tlhIngan Hol" src="https://img.shields.io/badge/Klingon-d9d9d9"></a>
-  <a href="./README_KR.md"><img alt="README in Korean" src="https://img.shields.io/badge/한국어-d9d9d9"></a>
-  <a href="./README_AR.md"><img alt="README بالعربية" src="https://img.shields.io/badge/العربية-d9d9d9"></a>
-  <a href="./README_TR.md"><img alt="Türkçe README" src="https://img.shields.io/badge/Türkçe-d9d9d9"></a>
-  <a href="./README_VI.md"><img alt="README Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-d9d9d9"></a>
 </p>
 
+## 💡 What is EasyDoc?
 
-Easydoc is an open-source LLM app development platform. Its intuitive interface combines agentic AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. 
+EasyDoc is a powerful multimodal document processing API that transforms unstructured documents into structured, hierarchical JSON, making document assets perfect for your AI and LLM applications. Purpose-built for LLM pipelines, EasyDoc provides high-quality data for model inference, fine-tuning, and optimized context windows.
 
-## Quick start
-> Before installing Easydoc, make sure your machine meets the following minimum system requirements:
-> 
->- CPU >= 2 Core
->- RAM >= 4 GiB
+### Why Choose EasyDoc?
 
-</br>
+- 📄 Intelligent Layout Analysis:
 
-The easiest way to start the Easydoc server is through [docker compose](docker/docker-compose.yaml). Before running Easydoc with the following commands, make sure that [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/) are installed on your machine:
+    Automatically parse documents into hierarchical JSON, preserving the logical structure, section relationships, and reading order. Perfect for maximizing LLM performance with optimized context windows.
+- 🔍 Rich Semantic Extraction:
 
-```bash
-cd Easydoc
-cd docker
-cp .env.example .env
-docker compose up -d
-```
+    Accurately extract metadata such as titles, sections, paragraphs, and lists, generating a creative mind map and structured JSON outputs with full hierarchical relationships for fine-grained navigation and LLM context enrichment.
+- 🎨 Multimodal Content Parsing:
 
-After running, you can access the Easydoc dashboard in your browser at [http://localhost/install](http://localhost/install) and start the initialization process.
+    Seamlessly transform tables, figures, and visual elements into structured JSON, maintaining contextual relationships with surrounding text. Fully compatible with LLM pipelines for enhanced performance.
 
-#### Seeking help
-Please refer to our [FAQ](https://docs.Easydoc.ai/getting-started/install-self-hosted/faqs) if you encounter problems setting up Easydoc. Reach out to [the community and us](#community--contact) if you are still having issues.
 
-> If you'd like to contribute to Easydoc or do additional development, refer to our [guide to deploying from source code](https://docs.Easydoc.ai/getting-started/install-self-hosted/local-source-code)
+## 🚀 Getting Started
+
+- Get an API key
+
+  To get started with the Easydoc API, you'll first need to generate an API key. Follow these steps:
+
+  1. **Visit the API Key Management Page**:
+     Go to [Easydoc API Keys](https://platform.easydoc.sh/api-keys) in your browser.
+  2. **Log In**:
+     If you aren't already logged in, sign in to your Easydoc account using your credentials.
+  3. **Generate a New API Key**:
+     Once logged in, you will be able to create a new API key. Click on the "Create New Key" button.
+  4. **Copy Your API Key**:
+     After the key is generated, a unique API key will be displayed. Copy the key to your clipboard.
+  5. **Use the API Key**:
+     You can now use this API key to authenticate your requests when interacting with the Easydoc API.
+
+  Make sure to keep your API key secure and do not expose it in public repositories or unauthorized places.
+
+- Use the REST API
+  Sure! Here's the content for the "Use the REST API" section:
+
+  You can interact with the Easydoc API using the following two endpoints:
+
+   #### 1. **POST api/v1/parse**  
+   This API allows you to upload a file and create a parsing task. 
+
+   **Operation Steps**:
+   - **Send a POST request** to `api/v1/parse` with the file you wish to   upload in the request body.
+   - **Response**: The server will return a `task_id` that you can use to  track the status of the parsing task.
+
+   For detailed API documentation and usage instructions, check the [API Reference for POST /api/v1/parse](/docs/api-reference/parse.md).
+
+   ---
+
+   #### 2. **GET api/v1/parse/{task_id}/result**  
+   This API allows you to retrieve the result of the parsing task you   previously created.
+
+   **Operation Steps**:
+   - **Send a GET request** to `api/v1/parse/{task_id}/result`, replacing  `{task_id}` with the task ID returned from the previous step.
+   - **Response**: You will receive the parsing result once the task is    complete.
+
+   For more details on how to use this endpoint, visit the [API Reference for GET /api/v1/parse/{task_id}/result](/docs/api-reference/parse_result.md).
+
+   --- 
+
+## 💰 Pricing
+
+| Plan           | Price           | Free Trial  | Notes                                           |
+|----------------|-----------------|-------------|------------------------------------------------|
+| Lite           | $2/1000 pages  | 1000 pages  | Basic features                                 |
+| Pro            | $8/1000 pages  | 1000 pages  | Advanced features                              |
+| Premium (Beta) | Contact us      | 500 pages   | Cutting-edge features for trials, requires API key |
+
+
+## 💬 Support and Feedback
+
+- Discord: Join our Discord community  [Room Url](https://discord.gg/kMgjbHxm)
+- Email: Contact email
+- Terms of Service:  Link
+- Privacy Policy:  Link
