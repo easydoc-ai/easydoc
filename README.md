@@ -1,13 +1,13 @@
 ![cover-v5-optimized](/assets/readme_cover.png)
 
 <p align="center">
-  📌 <a href="https://easydoc.sh/">Introducing Easydoc Api: Powerful Multimodal Document Processing API</a>
+  📌 <a href="https://easydoc.sh/">Introducing EasyDoc API: Powerful Multimodal Document Processing API</a>
 </p>
 
 
 
 <p align="center">
-  <a href="https://platform.easydoc-ai.sh">Easydoc API Platform</a> 
+  <a href="https://platform.easydoc-ai.sh">EasyDoc API Platform</a> 
   <!-- ·
    <a href="https://easydoc-ai.sh">Documentation</a> -->
 </p>
@@ -53,7 +53,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 
 - Get an API key
 
-  To get started with the Easydoc API, you'll first need to generate an API key. Follow these steps:
+  To get started with the EasyDoc API, you'll first need to generate an API key. Follow these steps:
 
   1. **Visit the API Key Management Page**:
      Go to [Easydoc API Keys](https://platform.easydoc.sh/api-keys) in your browser.
@@ -64,14 +64,14 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
   4. **Copy Your API Key**:
      After the key is generated, a unique API key will be displayed. Copy the key to your clipboard.
   5. **Use the API Key**:
-     You can now use this API key to authenticate your requests when interacting with the Easydoc API.
+     You can now use this API key to authenticate you
+     r requests when interacting with the Easydoc API.
 
   Make sure to keep your API key secure and do not expose it in public repositories or unauthorized places.
 
 - Use the REST API
-  Sure! Here's the content for the "Use the REST API" section:
-
-  You can interact with the Easydoc API using the following two endpoints:
+  
+  You can interact with the EasyDoc API using the following two endpoints:
 
    #### 1. **POST api/v1/parse**  
    This API allows you to upload a file and create a parsing task. 
@@ -85,11 +85,11 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    ---
 
    #### 2. **GET api/v1/parse/{task_id}/result**  
-   This API allows you to retrieve the result of the parsing task you   previously created.
+   This API allows you to retrieve the result of the parsing task you previously created.
 
    **Operation Steps**:
    - **Send a GET request** to `api/v1/parse/{task_id}/result`, replacing  `{task_id}` with the task ID returned from the previous step.
-   - **Response**: You will receive the parsing result once the task is    complete.
+   - **Response**: You will receive the parsing result once the task is complete.
 
    For more details on how to use this endpoint, visit the [API Reference for GET /api/v1/parse/{task_id}/result](/docs/api-reference/parse_result.md).
 
@@ -105,8 +105,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 
 
 ## 💬 Support and Feedback
-
-- Discord: Join our Discord community  [Room Url](https://discord.gg/kMgjbHxm)
-- Email: Contact email
-- Terms of Service:  Link
-- Privacy Policy:  Link
+- [Discord](https://discord.gg/kMgjbHxm)
+- Email: cooperate@easylink-ai.com
+- [Terms of Service](https://easydoc.sh/terms)
+- [Privacy Policy](https://easydoc.sh/privacy)
