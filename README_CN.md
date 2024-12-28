@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/twitter/follow/EasyDoc_AI?logo=X&color=%20%23f5f5f5"
             alt="关注 X (Twitter)"></a>
     <a href="https://github.com/easydoc-ai/easydoc" target="_blank">
-        <img alt="已关闭的问题" src="https://img.shields.io/github/issues-search?query=repo%3Aeasydoc-ai%2Feasydoc%20is%3Aclosed&label=已关闭的问题&labelColor=%20%237d89b0&color=%20%235d6b98"></a>
+        <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Aeasydoc-ai%2Feasydoc%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98"></a>
     <a href="https://github.com/easydoc-ai/easydoc/discussions/" target="_blank">
         <img alt="讨论帖子" src="https://img.shields.io/github/discussions/easydoc-ai/easydoc?labelColor=%20%239b8afb&color=%20%237a5af8"></a>
 </p>
