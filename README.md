@@ -56,16 +56,16 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
   To get started with the EasyDoc API, you'll first need to generate an API key. Follow these steps:
 
   1. **Visit the API Key Management Page**:
-     Go to [Easydoc API Keys](https://platform.easydoc.sh/api-keys) in your browser.
+     Go to [EasyDoc API Keys](https://platform.easydoc.sh/api-keys) in your browser.
   2. **Log In**:
-     If you aren't already logged in, sign in to your Easydoc account using your credentials.
+     If you aren't already logged in, sign in to your EasyDoc account using your credentials.
   3. **Generate a New API Key**:
      Once logged in, you will be able to create a new API key. Click on the "Create New Key" button.
   4. **Copy Your API Key**:
      After the key is generated, a unique API key will be displayed. Copy the key to your clipboard.
   5. **Use the API Key**:
      You can now use this API key to authenticate you
-     r requests when interacting with the Easydoc API.
+     r requests when interacting with the EasyDoc API.
 
   Make sure to keep your API key secure and do not expose it in public repositories or unauthorized places.
 
@@ -106,6 +106,6 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 
 ## 💬 Support and Feedback
 - [Discord](https://discord.gg/kMgjbHxm)
-- Email: cooperate@easylink-ai.com
+- [Email](cooperate@easylink-ai.com)
 - [Terms of Service](https://easydoc.sh/terms)
 - [Privacy Policy](https://easydoc.sh/privacy)
