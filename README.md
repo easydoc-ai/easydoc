@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://platform.easydoc-ai.sh">Easydoc Platform</a> 
+  <a href="https://platform.easydoc-ai.sh">Easydoc API Platform</a> 
   <!-- ·
    <a href="https://easydoc-ai.sh">Documentation</a> -->
 </p>
