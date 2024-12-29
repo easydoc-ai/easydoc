@@ -10,8 +10,6 @@ The Easydoc API supports the following input file formats:
 - **Excel Spreadsheets** (.xlsx, .xls)
 - **PowerPoint Presentations** (.pptx, .ppt)
 
-These formats are commonly used for document parsing tasks, allowing you to upload and process a wide range of file types.
-
 ---
 
 #### File Size Limit
@@ -23,10 +21,10 @@ The maximum file size supported for each individual file is **100 MB**. Please e
 #### Input Parameter Explanation
   
 - **Required Parameters**:
-  - **api-key**: The API key for authenticating your request. Include this in the request header.
-  - **File**: The file you wish to upload for parsing. It should be included in the request body when sending a POST request to `api/v1/parse`.
+  - **api-key**: The API key for authenticating your request. Include it in the request header.
+  - **File**: The document to upload for parsing. Include it in the request body when sending a POST request to `api/v1/parse`.
 - **Optional Parameters**:
-  refer to the [API Reference for Input Parameters](/docs/api-reference/parse.md).
+  See [API Reference for Input Parameters](/docs/api-reference/parse.md).
 
 ---
 
