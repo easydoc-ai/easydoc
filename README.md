@@ -38,15 +38,17 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 
 ### Why Choose EasyDoc?
 
-- 📄 Intelligent Layout Analysis:
+- 🧩 Content Block Identification:
 
-    Automatically parse documents into hierarchical JSON, preserving the logical structure, section relationships, and reading order. Perfect for maximizing LLM performance with optimized context windows.
+    Transform scattered document text into meaningful knowledge blocks, moving far beyond simple line-by-line parsing. Our AI precisely identifies and groups related content, creating optimized context windows perfect for LLM consumption.
+
 - 🔍 Rich Semantic Extraction:
 
-    Accurately extract metadata such as titles, sections, paragraphs, and lists, generating a creative mind map and structured JSON outputs with full hierarchical relationships for fine-grained navigation and LLM context enrichment.
+    Automatically reconstruct document hierarchies into intuitive mind maps, providing LLMs with rich context. Our deep understanding of document organization ensures your AI models receive complete, well-organized information for better reasoning and responses.
+  
 - 🎨 Multimodal Content Parsing:
 
-    Seamlessly transform tables, figures, and visual elements into structured JSON, maintaining contextual relationships with surrounding text. Fully compatible with LLM pipelines for enhanced performance.
+    Convert complex tables, figures, and visual data into JSON that your AI can actually understand. From multi-level tables to intricate diagrams, EasyDoc transforms multimodal content into machine-readable knowledge, supercharging your AI applications' capabilities.
 
 
 ## 🚀 Getting Started
