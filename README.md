@@ -64,8 +64,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
   4. **Copy Your API Key**:
      After the key is generated, a unique API key will be displayed. Copy the key to your clipboard.
   5. **Use the API Key**:
-     You can now use this API key to authenticate you
-     r requests when interacting with the EasyDoc API.
+     You can now use this API key to authenticate your requests when interacting with the EasyDoc API.
 
   Make sure to keep your API key secure and do not expose it in public repositories or unauthorized places.
 
@@ -77,8 +76,8 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    This API allows you to upload a file and create a parsing task. 
 
    **Operation Steps**:
-   - **Send a POST request** to `api/v1/parse` with the file you wish to   upload in the request body.
-   - **Response**: The server will return a `task_id` that you can use to  track the status of the parsing task.
+   - **Send a POST request** to `api/v1/parse` with the file you wish to upload in the request body.
+   - **Response**: The server will return a `task_id` that you can use to track the status of the parsing task.
 
    For detailed API documentation and usage instructions, check the [API Reference for POST /api/v1/parse](/docs/api-reference/parse.md).
 
@@ -106,6 +105,8 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 
 ## 💬 Support and Feedback
 - [Discord](https://discord.gg/jRSkyCeN)
-- [Email](cooperate@easylink-ai.com)
+- Contact us at cooperate@easylink-ai.com
 - [Terms of Service](https://easydoc.sh/terms)
 - [Privacy Policy](https://easydoc.sh/privacy)
+
+Ready to try? Sign up for free and get 1000 pages to test!
