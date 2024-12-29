@@ -2,7 +2,7 @@
 
 #### Supported Input Formats
 
-The Easydoc API supports the following input file formats:
+The EasyDoc API supports the following input file formats:
 
 - **PDF** (.pdf)
 - **Text** (.txt)
