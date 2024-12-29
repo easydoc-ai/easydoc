@@ -104,7 +104,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 
 
 ## 💬 Support and Feedback
-- [Discord](https://discord.gg/jRSkyCeN)
+- Join our [Discord](https://discord.gg/jRSkyCeN) community for support 
 - Contact us at cooperate@easylink-ai.com
 - [Terms of Service](https://easydoc.sh/terms)
 - [Privacy Policy](https://easydoc.sh/privacy)
