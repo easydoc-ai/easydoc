@@ -96,12 +96,12 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 |----------------|----------------|-------------|------------------------------------------------|
 | Lite           | $2/1000 页  | 1000 页  | 基本功能                                 |
 | Pro            | $8/1000 页  | 1000 页  | 高级功能                              |
-| Premium (Beta) | 联系我们      | 500 页   | 试用版的前沿功能，需要 API 密钥 |
+| Premium (Beta) | 免费        | 500 页   | 试用版的前沿功能，联系我们申请API密钥    |
 
 ## 💬 支持与反馈
 
-- Discord: [加入我们的 Discord 社区](https://discord.gg/Vye79nDKM4)
-- 邮箱: 联系邮箱
-- 服务条款: 链接
-- 隐私政策: 链接
+- [加入我们的 Discord 社区](https://discord.gg/Vye79nDKM4)
+- 邮箱: cooperate@easylink-ai.com
+- [服务条款](https://easydoc.sh/terms)
+- [隐私政策](https://easydoc.sh/privacy)
 ```
