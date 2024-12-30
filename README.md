@@ -34,7 +34,7 @@
 
 ## 💡 What is EasyDoc?
 
-EasyDoc is a powerful multimodal document processing API that transforms unstructured documents into structured, hierarchical JSON, making document assets perfect for your AI and LLM applications. Purpose-built for LLM pipelines, EasyDoc provides high-quality data for model inference, fine-tuning, and optimized context windows.
+EasyDoc is a powerful multimodal document processing API that transforms unstructured documents into hierarchical JSON, making document assets perfect for your AI and LLM applications. Purpose-built for LLM pipelines, EasyDoc provides high-quality data for model inference, fine-tuning, and optimized context windows.
 
 ### Why Choose EasyDoc?
 
