@@ -100,7 +100,7 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 
 ## 💬 支持与反馈
 
-- [加入我们的 Discord 社区](https://discord.gg/Vye79nDKM4)
-- 邮箱: cooperate@easylink-ai.com
-- [服务条款](https://easydoc.sh/terms)
-- [隐私政策](https://easydoc.sh/privacy)
+扫二维码添加 EasyDoc 小助手，进 EasyDoc 交流群。
+
+<img width="216" alt="scan-code" src="https://github.com/user-attachments/assets/db757180-e8c9-4f07-ad00-365b68ece4fc" />
+
