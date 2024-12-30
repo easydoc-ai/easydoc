@@ -102,7 +102,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 |----------------|-----------------|-------------|------------------------------------------------|
 | Lite           | $2/1000 pages  | 1000 pages  | Basic features                                 |
 | Pro            | $8/1000 pages  | 1000 pages  | Advanced features                              |
-| Premium (Beta) | N/A            | 500 pages   | Cutting-edge features for trials, requires API key |
+| Premium (Beta) | N/A            | 500 pages   | Cutting-edge features for trials, join [waitlist](https://easydoc.sh/join-waitlist) to get your API key. |
 
 
 ## 💬 Support and Feedback
