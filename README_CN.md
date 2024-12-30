@@ -100,7 +100,7 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 
 ## 💬 支持与反馈
 
-扫二维码添加 EasyDoc 小助手，进 EasyDoc 交流群。
+扫二维码添加 EasyDoc 小助手，进 EasyDoc 内测群，交流内测反馈。
 
 <img width="216" alt="scan-code" src="https://github.com/user-attachments/assets/db757180-e8c9-4f07-ad00-365b68ece4fc" />
 
