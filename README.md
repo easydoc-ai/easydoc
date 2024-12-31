@@ -97,6 +97,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    --- 
 
 ## 💰 Pricing
+🎉 Open Beta: $10 Balance for All Users!
 
 | Plan           | Price           | Free Trial  | Notes                                           |
 |----------------|-----------------|-------------|------------------------------------------------|
@@ -110,5 +111,3 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 - Contact us at cooperate@easylink-ai.com
 - [Terms of Service](https://easydoc.sh/terms)
 - [Privacy Policy](https://easydoc.sh/privacy)
-
-Ready to try? Sign up for free and get 1000 pages to test!
