@@ -26,12 +26,12 @@
    #### 1. **POST api/v1/parse**  
    This API allows you to upload a file and create a parsing task. 
   > Useful tips:
-  >* Supported file types: Ensure the uploaded file is in  >one  of the following formats:
+  >* Supported file types: Ensure the uploaded file is in one of the following formats:
   >    * PDF (.pdf)
   >    * Text (.txt)
   >    * Word Documents (.docx, .doc)
   >    * PowerPoint Presentations (.pptx, .ppt)
-  >* File size limit: The maximum file size supported for  >each   individual file is 100 MB. Please ensure that >your  uploaded   files do not exceed this limit to >avoid  request failures.
+  >* File size limit: The maximum file size supported for each individual file is 100 MB. Please ensure that your uploaded files do not exceed this limit to avoid request failures.
   
   - **Send a POST request** to `api/v1/parse` including the file you want to upload in the request body. Replace `api-key` with your personal API key. For the fastest processing, we recommend starting with the Lite mode.
 
