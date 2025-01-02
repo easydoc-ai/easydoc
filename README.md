@@ -77,7 +77,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    #### 1. **POST api/v1/parse**  
    This API allows you to upload a file and create a parsing task. 
   > Useful tips:
-  >* Supported file types:
+  >* Supported file types: Ensure the uploaded file is in one of the following formats.
   >    * PDF (.pdf)
   >    * Text (.txt)
   >    * Word Documents (.docx, .doc)
