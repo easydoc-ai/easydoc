@@ -47,7 +47,7 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
     对复杂表格、图表及视觉元素进行深度语义解析，精准还原其与文本上下文的关联，全面提升 LLM 与多模态 AI 在推理和应用中的表现。
 ## 🚀 快速开始
 
-- 获取 API 密钥
+### 1. 获取 API 密钥
 
   要开始使用 EasydDoc API，您首先需要生成一个 API 密钥。请按照以下步骤操作：
 
@@ -64,7 +64,7 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 
   请确保妥善保管您的 API 密钥，不要将其暴露在公共仓库或未经授权的地方。
 
-- 使用 REST API
+### 2. 使用 REST API
 
   您可以使用以下两个端点与 EasyDoc API 进行交互：
 
@@ -72,8 +72,19 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
    此 API 允许您上传文件并创建解析任务。
 
    **操作步骤**：
-   - **发送 POST 请求**到 `api/v1/parse`，并在请求体中上传您希望解析的文件。
-   - **响应**：服务器将返回一个 `task_id`，您可以使用它来跟踪解析任务的状态。
+   - **发送 POST 请求**到 `api/v1/parse`，将您需要上传的文件包含在请求体中。同时，将 `api-key` 替换为您的个人 API 密钥。为了获得最快的处理速度，我们建议从 `lite` 模式开始。
+
+  ``` shell
+      curl https://api.easydoc.sh/api/v1/parse \
+	-X POST \
+	-H "api-key: your-api-key" \
+	-F "file=@demo_document.pdf" \
+	-F "mode=lite" \
+  ``` 
+  
+
+   - **响应**：你将在服务响应中收到一个 `task_id`，接下来可以使用它来跟踪解析任务的状态。
+  
 
    有关详细的 API 文档和使用说明，请查看 [POST /api/v1/parse 的 API 参考](/docs/api-reference/parse.md)。
 
@@ -84,6 +95,11 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 
    **操作步骤**：
    - **发送 GET 请求**到 `api/v1/parse/{task_id}/result`，将 `{task_id}` 替换为上一步返回的任务 ID。
+   ``` bash
+   curl "https://api.easydoc.sh/api/v1/parse/{task_id}/result"  \
+    -X GET \
+	-H "api-key: your-api-key"
+   ```
    - **响应**：任务完成后，您将收到解析结果。
 
    有关如何使用此端点的更多详细信息，请访问 [GET /api/v1/parse/{task_id}/result 的 API 参考](/docs/api-reference/parse_result.md)。

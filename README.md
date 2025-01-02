@@ -78,7 +78,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    This API allows you to upload a file and create a parsing task. 
 
   
-   - **Send a POST request** to `api/v1/parse` including the file you want to upload in the request body. Replace api-key with your personal API key. For the fastest processing, we recommend starting with the Lite mode.
+   - **Send a POST request** to `api/v1/parse` including the file you want to upload in the request body. Replace `api-key` with your personal API key. For the fastest processing, we recommend starting with the Lite mode.
 
    ``` shell
       curl https://api.easydoc.sh/api/v1/parse \
@@ -88,9 +88,9 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 	-F "mode=lite" \
    ```
 
-   - **Response**: The server will return a `task_id` that you can use to track the status of the parsing task.
+   - **Response**: You will receive a `task_id` from the server response that you can use to track the status of the parsing task.
 
-   For detailed API documentation and usage instructions, check the [API Reference for POST /api/v1/parse](/docs/api-reference/parse.md).
+   For detailed API documentation and usage instructions, see [API Reference for POST /api/v1/parse](/docs/api-reference/parse.md).
 
    ---
 
@@ -107,7 +107,7 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    ```
    - **Response**: You will receive the parsing result once the task is complete.
 
-   For more details on how to use this endpoint, visit the [API Reference for GET /api/v1/parse/{task_id}/result](/docs/api-reference/parse_result.md).
+   For more details on how to use this endpoint, see [API Reference for GET /api/v1/parse/{task_id}/result](/docs/api-reference/parse_result.md).
 
    --- 
 
