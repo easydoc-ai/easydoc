@@ -57,8 +57,8 @@ curl -X GET "https://api.easydoc.sh/api/v1/parse/{task_id}/result" \
     "errMessage": null,
     "data": {
         "taskId": "*********************************", // Unique task ID
-        "status": "PENDING", // PENDING, SUCCESS, ERROR, PROGRESSING
-        "taskResult": {
+        "task_status": "PENDING", // PENDING, SUCCESS, ERROR, PROGRESSING
+        "task_result": {
             // Parsed data, this field has a value when data.status == SUCCESS
         }
     }
