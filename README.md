@@ -77,8 +77,19 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    #### 1. **POST api/v1/parse**  
    This API allows you to upload a file and create a parsing task. 
 
-   **Operation Steps**:
+  
    - **Send a POST request** to `api/v1/parse` with the file you wish to upload in the request body.
+   ``` shell
+      curl https://api.easydoc.sh/api/v1/parse \
+	-X POST \
+	-H "api-key: your-api-key" \
+	-F "file=@demo_document.pdf" \
+	-F "start_page=1" \
+ 	-F "end_page=2" \
+	-F "mode=lite" \
+
+   ```
+
    - **Response**: The server will return a `task_id` that you can use to track the status of the parsing task.
 
    For detailed API documentation and usage instructions, check the [API Reference for POST /api/v1/parse](/docs/api-reference/parse.md).
@@ -88,8 +99,14 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
    #### 2. **GET api/v1/parse/{task_id}/result**  
    This API allows you to retrieve the result of the parsing task you previously created.
 
-   **Operation Steps**:
+ 
    - **Send a GET request** to `api/v1/parse/{task_id}/result`, replacing  `{task_id}` with the task ID returned from the previous step.
+   ``` bash
+   curl "https://api.easydoc.sh/api/v1/parse/{task_id}/result" \
+    -X GET \
+	-H "api-key: your-api-key"
+
+   ```
    - **Response**: You will receive the parsing result once the task is complete.
 
    For more details on how to use this endpoint, visit the [API Reference for GET /api/v1/parse/{task_id}/result](/docs/api-reference/parse_result.md).

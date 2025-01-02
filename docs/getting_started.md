@@ -1,9 +1,5 @@
 ### Getting Started
 
-#### Overview
-
-- Easydoc API 的功能与适用场景简介。
-- 主要优势与核心特点。
 
 #### Quick starts
 
@@ -31,6 +27,17 @@
 
    #### 1. **POST api/v1/parse**  
    This API allows you to upload a file and create a parsing task. 
+
+   Useful Tips:
+   * Supported File Types: Ensure the uploaded file is in one  of the following formats:
+      - **PDF** (.pdf)
+      - **Text** (.txt)
+      - **Word Documents** (.docx, .doc)
+      - **PowerPoint Presentations** (.pptx, .ppt)
+
+   * File Size Limit: The maximum file size supported for each individual file is **100 MB**. Please ensure that your uploaded files do not exceed this limit to avoid request failures.
+   * File Contents: For best accuracy, ensure the files are    high-quality (e.g., clear scanned documents, readable text,    etc.).
+   
 
    **Operation Steps**:
    - **Send a POST request** to `api/v1/parse` with the file you wish to   upload in the request body.
