@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://easydoc.sh" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/product-F04438"></a>
-    <a href="https://discord.gg/kMgjbHxm" target="_blank">
+    <a href="https://discord.gg/jRSkyCeN" target="_blank">
         <img src="https://img.shields.io/discord/1319201673201324032?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
             alt="Discord 聊天"></a>
     <a href="https://twitter.com/intent/follow?screen_name=EasyDoc_AI" target="_blank">
