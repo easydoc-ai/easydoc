@@ -1,11 +1,11 @@
 ![cover-v5-optimized](/assets/readme_cover.png)
 
 <p align="center">
-  📌 <a href="https://easydoc.sh/">介绍 Easydoc API：强大的多模态文档处理 API</a>
+  📌 <a href="https://easydoc.sh/">EasyDoc：强大的多模态文档处理 API</a>
 </p>
 
 <p align="center">
-  <a href="https://platform.easydoc-ai.sh">Easydoc API Platform</a> 
+  <a href="https://platform.easydoc-ai.sh">EasyDoc API Platform</a> 
   <!-- ·
    <a href="https://easydoc-ai.sh">文档</a> -->
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://easydoc.sh" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/product-F04438"></a>
-    <a href="https://discord.gg/kMgjbHxm" target="_blank">
+    <a href="https://discord.gg/jRSkyCeN" target="_blank">
         <img src="https://img.shields.io/discord/1319201673201324032?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
             alt="Discord 聊天"></a>
     <a href="https://twitter.com/intent/follow?screen_name=EasyDoc_AI" target="_blank">
@@ -49,24 +49,24 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 
 - 获取 API 密钥
 
-  要开始使用 Easydoc API，您首先需要生成一个 API 密钥。请按照以下步骤操作：
+  要开始使用 EasydDoc API，您首先需要生成一个 API 密钥。请按照以下步骤操作：
 
   1. **访问 API 密钥管理页面**：
-     在浏览器中访问 [Easydoc API 密钥](https://platform.easydoc.sh/api-keys)。
+     在浏览器中访问 [EasyDoc API 密钥](https://platform.easydoc.sh/api-keys)。
   2. **登录**：
-     如果尚未登录，请使用您的凭据登录 Easydoc 账户。
+     如果尚未登录，请使用您的凭据登录 EasyDoc 账户。
   3. **生成新的 API 密钥**：
      登录后，您可以创建一个新的 API 密钥。点击“创建新密钥”按钮。
   4. **复制您的 API 密钥**：
      密钥生成后，将显示一个唯一的 API 密钥。将其复制到剪贴板。
   5. **使用 API 密钥**：
-     您现在可以使用此 API 密钥在与 Easydoc API 交互时进行身份验证。
+     您现在可以使用此 API 密钥在与 EasyDoc API 交互时进行身份验证。
 
   请确保妥善保管您的 API 密钥，不要将其暴露在公共仓库或未经授权的地方。
 
 - 使用 REST API
 
-  您可以使用以下两个端点与 Easydoc API 进行交互：
+  您可以使用以下两个端点与 EasyDoc API 进行交互：
 
    #### 1. **POST api/v1/parse**  
    此 API 允许您上传文件并创建解析任务。
@@ -91,6 +91,7 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
    --- 
 
 ## 💰 定价
+🎉 新用户福利：立享$10免费额度
 
 | 计划           | 价格           | 免费试用  | 备注                                           |
 |----------------|----------------|-------------|------------------------------------------------|
@@ -100,7 +101,7 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 
 ## 💬 支持与反馈
 
-扫二维码添加 EasyDoc 小助手，进 EasyDoc 内测群，交流内测反馈。
+扫二维码添加进 EasyDoc 交流群，交流内测反馈。
 
-<img width="216" alt="scan-code" src="https://github.com/user-attachments/assets/db757180-e8c9-4f07-ad00-365b68ece4fc" />
+![EasyDoc交流群](https://github.com/user-attachments/assets/da4a5342-ab73-425d-987f-a87d96644d74)
 

@@ -7,7 +7,6 @@ The EasyDoc API supports the following input file formats:
 - **PDF** (.pdf)
 - **Text** (.txt)
 - **Word Documents** (.docx, .doc)
-- **Excel Spreadsheets** (.xlsx, .xls)
 - **PowerPoint Presentations** (.pptx, .ppt)
 
 ---
