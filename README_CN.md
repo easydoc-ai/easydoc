@@ -1,7 +1,7 @@
 ![cover-v5-optimized](/assets/readme_cover.png)
 
 <p align="center">
-  📌 <a href="https://easydoc.sh/">介绍 Easydoc API：强大的多模态文档处理 API</a>
+  📌 <a href="https://easydoc.sh/">Easydoc：强大的多模态文档处理 API</a>
 </p>
 
 <p align="center">
