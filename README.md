@@ -1,7 +1,7 @@
 ![cover-v5-optimized](/assets/readme_cover.png)
 
 <p align="center">
-  📌 <a href="https://easydoc.sh/">Introducing EasyDoc API: Powerful Multimodal Document Processing API</a>
+  📌 <a href="https://easydoc.sh/">Introducing EasyDoc: Powerful Multimodal Document Processing API</a>
 </p>
 
 
