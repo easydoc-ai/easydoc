@@ -39,6 +39,7 @@ This script will:
 ### Example Output
 
 ```bash
+
 Uploading path/to/your/document.pdf...
 File uploaded successfully. Task ID: abc123xyz
 Fetching result for Task ID: abc123xyz...
@@ -47,7 +48,8 @@ Task status: PROGRESSING. Retrying in 5 seconds...
 Parsing completed successfully.
 Parsing Result:
 {
-    "content": "Extracted text from your document..."
+    "file_name":"document.pdf",
+     // document data
 }
 ```
 
