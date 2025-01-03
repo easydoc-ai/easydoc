@@ -8,14 +8,14 @@ This module provides example scripts for interacting with the EasyDoc API. It de
 
 1. **API Key**: Obtain your API key from the [EasyDoc API Key Management Page](https://platform.easydoc.sh/api-keys).
 2. **Python**: Install Python 3.7+ on your machine.
-3. **Dependencies**: Install required libraries with `pip install requests`.
+
 
 ## Setup
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name/examples
+   git clone https://github.com/easydoc-ai/easydoc.git
+   cd easydoc/examples
    ```
 
 2. Replace the placeholder `your-api-key` in `upload_and_parse.py` with your actual API key.
