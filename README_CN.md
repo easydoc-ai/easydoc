@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://platform.easydoc-ai.sh">EasyDoc API Platform</a> 
-  <!-- ·
-   <a href="https://easydoc-ai.sh">文档</a> -->
+ ·
+   <a href="https://platform.easylink-ai.com">🇨🇳 EasyDoc API 平台</a>
 </p>
 
 <p align="center">
@@ -46,6 +46,8 @@ EasyDoc 是一款强大的多模态文档处理 API，能够精准解读文本�
 
     对复杂表格、图表及视觉元素进行深度语义解析，精准还原其与文本上下文的关联，全面提升 LLM 与多模态 AI 在推理和应用中的表现。
 ## 🚀 快速开始
+
+🇨🇳 **中文用户？** 请访问我们的 **[EasyDoc开发者文档](https://github.com/easydoc-ai/easydoc)**。
 
 ### 1. 获取 API 密钥
 

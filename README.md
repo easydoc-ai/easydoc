@@ -7,9 +7,9 @@
 
 
 <p align="center">
-  <a href="https://platform.easydoc-ai.sh">EasyDoc API Platform</a> 
-  <!-- ·
-   <a href="https://easydoc-ai.sh">Documentation</a> -->
+  <a href="https://platform.easydoc-ai.sh">🌍 EasyDoc API Platform</a> 
+  ·
+   <a href="https://platform.easylink-ai.com">🇨🇳 EasyDoc API 平台</a>
 </p>
 
 <p align="center">
@@ -52,6 +52,8 @@ EasyDoc is a powerful multimodal document processing API that transforms unstruc
 
 
 ## 🚀 Getting Started
+
+🇨🇳 **中文用户？** 请访问我们的 **[EasyDoc开发者文档](https://github.com/easydoc-ai/easydoc)**。
 
 ### 1. Get an API key
 
